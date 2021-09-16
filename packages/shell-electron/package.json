@@ -35,6 +35,6 @@
     "@vue-devtools/build-tools": "^0.0.0",
     "@vue-devtools/shared-utils": "^0.0.0",
     "webpack": "^4.19.0",
-    "webpack-cli": "^3.1.0"
+    "webpack-cli": "^4.0.0"
   }
 }
